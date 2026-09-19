@@ -30,7 +30,7 @@ Form Fields:
 -Academic Details which may includes Degree, Department, Register No, Year of Passing, CGPA/Percentage.
 -Then,Finally the Submit and Reset button has been included in it.
 
-Teechnologies Used:
+Technologies Used:
 -HTML5
 
 Author:
